@@ -1,0 +1,13 @@
+{
+  "name": "codex-status",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "codex": "node main.js"
+  },
+  "dependencies": {
+    "node-pty": "^1.0.0",
+    "strip-ansi": "^7.1.0"
+  }
+}

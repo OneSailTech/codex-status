@@ -1,0 +1,9 @@
+{
+  "five_hour_left_percent": null,
+  "weekly_left_percent": null,
+  "reset_today": null,
+  "reset_weekly": null,
+  "updated_at": "2026-06-22T08:49:01.163Z",
+  "error": "refresh_timeout",
+  "error_detail": "Refresh exceeded the 90s hard timeout. This may indicate a network issue, Codex CLI problem, or that the user is not logged in."
+}
